@@ -29,5 +29,4 @@ if __name__ == '__main__':
 	# Function call
 	search(pat, txt)
 
-# This code is contributed
-# by PrinciRaj1992
+# This code is geeksforgeeks
