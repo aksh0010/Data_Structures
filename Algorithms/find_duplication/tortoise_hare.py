@@ -7,8 +7,7 @@ def tortoise_hare(arr):
     
     while True:
         tortoise = arr[tortoise]
-        hare = arr[arr[hare]] 
-        #adhua hdjah dkjad;k 
+        hare = arr[arr[hare]]
         
         if tortoise == hare:
             return True
